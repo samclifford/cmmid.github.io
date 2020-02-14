@@ -1,0 +1,9 @@
+---
+title: "All papers (including preprints)"
+author: "CMMID nCoV working group"
+date: "`r Sys.time()`"
+output: github_document
+nocite: '@*'
+bibliography: allpapers.bib
+---
+
